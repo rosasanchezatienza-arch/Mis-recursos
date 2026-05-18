@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260518113728GM48JH</value>
+    <value>202605181300533MTRQO</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260518113728ZCH945</value>
+    <value>20260518130053WCMGG5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779095464621</value>
+    <value>1779101517687</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpazi611-x144fe29s</odePageId>
+  <odePageId>page-mpb33wot-2y57ua6wv</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INTRODUCCIÓN</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi611-x144fe29s</odePageId>
+      <odePageId>page-mpb33wot-2y57ua6wv</odePageId>
       <odeBlockId>block-1779022024777-gbb80w0rf</odeBlockId>
       <blockName>INTRODUCCIÓN</blockName>
       <iconName>activity</iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi611-x144fe29s</odePageId>
+          <odePageId>page-mpb33wot-2y57ua6wv</odePageId>
           <odeBlockId>block-1779022024777-gbb80w0rf</odeBlockId>
           <odeIdeviceId>idevice-1779022024774-fl94d99fv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -191,7 +191,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi618-e9ep47y28</odePageId>
+  <odePageId>page-mpb33wox-0brldo1vz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INFORMACIÓN DE LA TAREA</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -227,7 +227,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi618-e9ep47y28</odePageId>
+      <odePageId>page-mpb33wox-0brldo1vz</odePageId>
       <odeBlockId>block-1779022138359-f5c11077g</odeBlockId>
       <blockName>PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</blockName>
       <iconName>passport</iconName>
@@ -256,7 +256,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi618-e9ep47y28</odePageId>
+          <odePageId>page-mpb33wox-0brldo1vz</odePageId>
           <odeBlockId>block-1779022138359-f5c11077g</odeBlockId>
           <odeIdeviceId>idevice-1779022138358-me1gtyij0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -301,7 +301,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61a-okdjravp4</odePageId>
+  <odePageId>page-mpb33woy-twwvkm0i4</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -337,7 +337,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61a-okdjravp4</odePageId>
+      <odePageId>page-mpb33woy-twwvkm0i4</odePageId>
       <odeBlockId>block-1779023334369-q3lsoqnx6</odeBlockId>
       <blockName>Información sobre protección de datos y garantías de derechos digitales</blockName>
       <iconName>observe</iconName>
@@ -366,7 +366,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61a-okdjravp4</odePageId>
+          <odePageId>page-mpb33woy-twwvkm0i4</odePageId>
           <odeBlockId>block-1779023334369-q3lsoqnx6</odeBlockId>
           <odeIdeviceId>idevice-1779023334368-9737n4r18</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -403,7 +403,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61b-2t9ioej4y</odePageId>
+  <odePageId>page-mpb33woz-ktvyvpknn</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -439,7 +439,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61b-2t9ioej4y</odePageId>
+      <odePageId>page-mpb33woz-ktvyvpknn</odePageId>
       <odeBlockId>block-1779050817304-e7jgdrqqb</odeBlockId>
       <blockName>CUÁL ES EL PRODUCTO FINAL</blockName>
       <iconName>guide</iconName>
@@ -468,7 +468,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61b-2t9ioej4y</odePageId>
+          <odePageId>page-mpb33woz-ktvyvpknn</odePageId>
           <odeBlockId>block-1779050817304-e7jgdrqqb</odeBlockId>
           <odeIdeviceId>idevice-1779050817301-op9fol0xg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -499,7 +499,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61d-mgnjg66kc</odePageId>
+  <odePageId>page-mpb33woz-8n28kjyn0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>HERRAMIENTAS DE CURACIÓN DE CONTENIDOS</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -535,7 +535,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61d-mgnjg66kc</odePageId>
+      <odePageId>page-mpb33woz-8n28kjyn0</odePageId>
       <odeBlockId>block-1779051461030-4xlm7cbe8</odeBlockId>
       <blockName>PADLET Y SIMBALO: Herramientas de curación de Contenido</blockName>
       <iconName>info</iconName>
@@ -564,7 +564,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61d-mgnjg66kc</odePageId>
+          <odePageId>page-mpb33woz-8n28kjyn0</odePageId>
           <odeBlockId>block-1779051461030-4xlm7cbe8</odeBlockId>
           <odeIdeviceId>idevice-1779051461028-elg2a7x31</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -597,7 +597,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61d-nzkzckui8</odePageId>
+  <odePageId>page-mpb33wp0-huuse9vc2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>TEMPORALIZACIÓN DE LAS ACTIVIDADES Y TAREAS</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -633,7 +633,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61d-nzkzckui8</odePageId>
+      <odePageId>page-mpb33wp0-huuse9vc2</odePageId>
       <odeBlockId>block-1779051935088-8sieq7usr</odeBlockId>
       <blockName>Tabla de planificación temporal de las actividades y tareas</blockName>
       <iconName>chrono</iconName>
@@ -662,7 +662,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61d-nzkzckui8</odePageId>
+          <odePageId>page-mpb33wp0-huuse9vc2</odePageId>
           <odeBlockId>block-1779051935088-8sieq7usr</odeBlockId>
           <odeIdeviceId>idevice-1779051935087-f8xis241g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -736,7 +736,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61f-c0ahoh4ko</odePageId>
+  <odePageId>page-mpb33wp0-jepc9b9eq</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>GUÍA DIDÁCTICA- CRITERIOS DE EVALUACIÓN</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -772,7 +772,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61f-c0ahoh4ko</odePageId>
+      <odePageId>page-mpb33wp0-jepc9b9eq</odePageId>
       <odeBlockId>block-1779052978446-jqxht4ncj</odeBlockId>
       <blockName>Guía didáctica- Criterios de evaluación.</blockName>
       <iconName>english</iconName>
@@ -801,7 +801,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61f-c0ahoh4ko</odePageId>
+          <odePageId>page-mpb33wp0-jepc9b9eq</odePageId>
           <odeBlockId>block-1779052978446-jqxht4ncj</odeBlockId>
           <odeIdeviceId>idevice-1779052978446-n44325k7b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -833,7 +833,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61h-36r20hxlr</odePageId>
+  <odePageId>page-mpb33wp1-a9su31l8w</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -869,7 +869,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61h-36r20hxlr</odePageId>
+      <odePageId>page-mpb33wp1-a9su31l8w</odePageId>
       <odeBlockId>block-1779053161291-hvm9f2u7z</odeBlockId>
       <blockName>Instrumentos de ev. Rúbrica y Diana</blockName>
       <iconName>draw</iconName>
@@ -898,7 +898,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61h-36r20hxlr</odePageId>
+          <odePageId>page-mpb33wp1-a9su31l8w</odePageId>
           <odeBlockId>block-1779053161291-hvm9f2u7z</odeBlockId>
           <odeIdeviceId>idevice-1779053161289-7cpi6nkqq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -929,7 +929,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpazi61i-muhoj0qjo</odePageId>
+  <odePageId>page-mpb33wp1-5ad19hl3n</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRÉDITOS</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -965,7 +965,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpazi61i-muhoj0qjo</odePageId>
+      <odePageId>page-mpb33wp1-5ad19hl3n</odePageId>
       <odeBlockId>block-1779053533894-zti9u2eso</odeBlockId>
       <blockName>Texto</blockName>
       <iconName>explore</iconName>
@@ -994,20 +994,21 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpazi61i-muhoj0qjo</odePageId>
+          <odePageId>page-mpb33wp1-5ad19hl3n</odePageId>
           <odeBlockId>block-1779053533894-zti9u2eso</odeBlockId>
           <odeIdeviceId>idevice-1779053533892-kti5t4dsp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><strong>Autoría y Propiedad Intelectual</strong><br />Autoría: Rosa María Sánchez Atienza<br />Centro Educativo: CEPER MIGUEL HERNÁNDEZ, Écija.<br />Proyecto: Situación de Aprendizaje "My Digital Travel Journal"<br />Perfil docente: Especialidad de Inglés.</p>
+<p><br /></p>
 <p><strong>Descripción del Recurso</strong><br />Este recurso educativo abierto (REA) ha sido diseñado como tarea final para el curso de Formación en Competencia Digital Docente (Nivel B2). La propuesta integra el aprendizaje de vocabulario técnico en lengua inglesa (estaciones, aeropuertos y hoteles) con el desarrollo de habilidades digitales avanzadas mediante el uso de eXeLearning, Canva, creación de códigos QR y Google Earth, entre otros.</p>
 <p><strong>Licencia de Uso y Licencia de Contenidos.</strong></p>
 <p>-eXeLearning es un software libre y su licencia es GNU GPL (General Public License) .<br />-Para este recurso se ha elegido la licencia: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>
 <p><img src="{{context_path}}/content/resources/descarga (7).jpg" title="Licencia" width="333" height="123" alt="imagen de la licencia CC BY-SA" /><br /></p>
 <p><a href="https://drive.google.com/file/d/1BVlGiOdZsHEDDp1jgwUk5yFkfIomWZJI/view?usp=sharing" title="Botón para descarga" target="_blank" rel="noopener"><strong title="Botón para descarga">📦 DESCARGAR ARCHIVO EDITABLE (.elp)</strong></a></p>
-<p><br /></p>
+<p><a href="{{context_path}}/content/resources/my-digital-travel-journal - copia.zip" title="my-digital-travel-journal - copia.zip" target="_blank" rel="noopener">📦 DESCARGAR PROYECTO EDITABLE (ZIP)</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779053533892-kti5t4dsp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría y Propiedad Intelectual</strong><br />Autoría: Rosa María Sánchez Atienza<br />Centro Educativo: CEPER MIGUEL HERNÁNDEZ, Écija.<br />Proyecto: Situación de Aprendizaje \"My Digital Travel Journal\"<br />Perfil docente: Especialidad de Inglés.</p>\n<p><strong>Descripción del Recurso</strong><br />Este recurso educativo abierto (REA) ha sido diseñado como tarea final para el curso de Formación en Competencia Digital Docente (Nivel B2). La propuesta integra el aprendizaje de vocabulario técnico en lengua inglesa (estaciones, aeropuertos y hoteles) con el desarrollo de habilidades digitales avanzadas mediante el uso de eXeLearning, Canva, creación de códigos QR y Google Earth, entre otros.</p>\n<p><strong>Licencia de Uso y Licencia de Contenidos.</strong></p>\n<p>-eXeLearning es un software libre y su licencia es GNU GPL (General Public License) .<br />-Para este recurso se ha elegido la licencia: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>\n<p><img src=\"{{context_path}}/content/resources/descarga (7).jpg\" title=\"Licencia\" width=\"333\" height=\"123\" alt=\"imagen de la licencia CC BY-SA\" /><br /></p>\n<p><a href=\"https://drive.google.com/file/d/1BVlGiOdZsHEDDp1jgwUk5yFkfIomWZJI/view?usp=sharing\" title=\"Botón para descarga\" target=\"_blank\" rel=\"noopener\"><strong title=\"Botón para descarga\">📦 DESCARGAR ARCHIVO EDITABLE (.elp)</strong></a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779053533892-kti5t4dsp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría y Propiedad Intelectual</strong><br />Autoría: Rosa María Sánchez Atienza<br />Centro Educativo: CEPER MIGUEL HERNÁNDEZ, Écija.<br />Proyecto: Situación de Aprendizaje \"My Digital Travel Journal\"<br />Perfil docente: Especialidad de Inglés.</p>\n<p><br /></p>\n<p><strong>Descripción del Recurso</strong><br />Este recurso educativo abierto (REA) ha sido diseñado como tarea final para el curso de Formación en Competencia Digital Docente (Nivel B2). La propuesta integra el aprendizaje de vocabulario técnico en lengua inglesa (estaciones, aeropuertos y hoteles) con el desarrollo de habilidades digitales avanzadas mediante el uso de eXeLearning, Canva, creación de códigos QR y Google Earth, entre otros.</p>\n<p><strong>Licencia de Uso y Licencia de Contenidos.</strong></p>\n<p>-eXeLearning es un software libre y su licencia es GNU GPL (General Public License) .<br />-Para este recurso se ha elegido la licencia: Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>\n<p><img src=\"{{context_path}}/content/resources/descarga (7).jpg\" title=\"Licencia\" width=\"333\" height=\"123\" alt=\"imagen de la licencia CC BY-SA\" /><br /></p>\n<p><a href=\"https://drive.google.com/file/d/1BVlGiOdZsHEDDp1jgwUk5yFkfIomWZJI/view?usp=sharing\" title=\"Botón para descarga\" target=\"_blank\" rel=\"noopener\"><strong title=\"Botón para descarga\">📦 DESCARGAR ARCHIVO EDITABLE (.elp)</strong></a></p>\n<p><a href=\"{{context_path}}/content/resources/my-digital-travel-journal - copia.zip\" title=\"my-digital-travel-journal - copia.zip\" target=\"_blank\" rel=\"noopener\">📦 DESCARGAR PROYECTO EDITABLE (ZIP)</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
